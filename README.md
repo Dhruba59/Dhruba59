@@ -1,8 +1,8 @@
-<!-- ## I'm a Husband, Father, Developer, and Teacher!! -->
+
 
 ### Hi there, I'm Dhruba👋
-- I’ve finished my graduation recently and looking for a Software engineering Job
-- 
+- Studied in Computer Science and Engineering from Shahjalal University of Science and Technology
+- Looking for a Software Engineering Job
 <br />
 
 ### Things I love to do:
@@ -17,7 +17,6 @@
 
 <br />
 
-### Languages and Tools:
 ## ⚙️ Technologies & Tools
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
@@ -28,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 
-
+![React](https://img.shields.io/badge/React-%20-green)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=F7931E)
 ![Node / Express](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node&logoColor=white&color=563D7C)
@@ -48,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dhruba's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dhruba59&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dhruba's GitHub Stats" src="https://github-readme-stats.dhruba59.vercel.app/api?username=dhruba59&show_icons=true&hide_border=true" />
 
 </details>
 
