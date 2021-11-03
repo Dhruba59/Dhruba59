@@ -2,8 +2,10 @@
 
 ### Hi there, I'm Dhruba👋
 - I’ve finished my graduation recently and looking for a Software engineering Job
+- 
 <br />
-Things I love to do:
+
+### Things I love to do:
 - Programming, Development.
 - Travel and do photography
 - Love to play Cricket, Football, Chess, Table tennis.
