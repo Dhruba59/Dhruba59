@@ -7,7 +7,7 @@
 
 ### Things I love to do:
 - Programming, Development.
-- Travel and do photography
+- Travel and Photography
 - Love to play Cricket, Football, Chess, Table tennis.
 
 ### Connect with me:
