@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Dhruba👋
-- Studied in Computer Science and Engineering from Shahjalal University of Science and Technology
+- Studied Computer Science and Engineering from Shahjalal University of Science and Technology
 - Looking for a Software Engineering Job
 <br />
 
