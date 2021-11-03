@@ -1,13 +1,12 @@
 
 
 ### Hi there, I'm Dhruba👋
-- Studied Computer Science and Engineering from Shahjalal University of Science and Technology
-- Looking for a Software Engineering Job
-<br />
+Studied Computer Science and Engineering from Shahjalal University of Science and Technology. Live in Sylhet, Bangladesh. 
+.<br />
 
 ### Things I love to do:
 - Programming, Development.
-- Travel and Photography
+- Travel and Photography.
 - Love to play Cricket, Football, Chess, Table tennis.
 
 ### Connect with me:
