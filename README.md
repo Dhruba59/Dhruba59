@@ -3,7 +3,7 @@
 ### Hi there, I'm Dhruba👋
 <div style="background-color:blue">
   <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
   </a>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
     <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -32,7 +32,7 @@ I have Studied Computer Science and Engineering from Shahjalal University of Sci
 - Love to play Cricket, Football, Chess, Table tennis.
 
 ### Connect with me:
-
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
