@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Dhruba👋
 
-  <a target="_blank" style="background-color:blue" href="https://api.whatsapp.com/send?phone=5584999828379">
+<!--   <a target="_blank" style="background-color:blue" href="https://api.whatsapp.com/send?phone=5584999828379">
     <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
   <a target="_blank" href="https://www.instagram.com/ary.clenio/">
@@ -16,8 +16,7 @@
   </a>
   <a target="_blank" href="https://fb.com/aryxb">
     <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-</div>
+  </a> -->
 
 I am Software Engineer especially working with Frontend. I have been working with React, Next, Typescript, Javascript, Tailwind CSS, Redux, Redux Toolkit, etc for the last 6 months here at my current company Vivasoft Limited.
 I have Studied Computer Science and Engineering from Shahjalal University of Science and Technology.
@@ -29,7 +28,7 @@ I have Studied Computer Science and Engineering from Shahjalal University of Sci
 - Love to play Cricket, Football, Chess, Table tennis.
 
 ### Connect with me:
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<!-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
