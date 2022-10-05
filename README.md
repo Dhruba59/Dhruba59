@@ -18,7 +18,7 @@
     <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a> -->
 
-I am Software Engineer especially working with Frontend. I have been working with React, Next, Typescript, Javascript, Tailwind CSS, Redux, Redux Toolkit, etc for the last 6 months here at my current company Vivasoft Limited.
+I am Software Engineer especially working with Frontend. I have been working with React, Next, Typescript, Javascript, Tailwind CSS, Redux, Redux Toolkit, etc here at my current company Vivasoft Limited.
 I have Studied Computer Science and Engineering from Shahjalal University of Science and Technology.
 .<br />
 
