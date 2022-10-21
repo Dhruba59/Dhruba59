@@ -22,7 +22,7 @@ I am Software Engineer especially working with Frontend. I have been working wit
 I have Studied Computer Science and Engineering from Shahjalal University of Science and Technology.
 .<br />
 
-- 🔭 &nbsp;I’m currently working on frontend using NextJs, Redux, Tailwind CSS.
+- 🔭 &nbsp;I’m currently working on a project using NextJs, Redux, Tailwind CSS.
 - 🌱 &nbsp;I’m currently learning Backend with Node, Express, MongoDB etc. 
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Next/HTML/CSS.
 
